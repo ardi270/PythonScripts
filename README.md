@@ -24,5 +24,5 @@ Nga paga bruto zbriten:
 
 LLogaritjet e mesiperme vlejne deri ne shtator 2022. Pas shtator 2022 behen dy ndryshime:
 
-1-Paga minimale ishte 32’000 leke dhe behet 34’000 leke.
-2-Paga maksimale per sigurimet shoqerore ishte 141’134 leke dhe behet 149’954 leke. 
+1-Paga minimale ishte 32_000 leke dhe behet 34_000 leke.
+2-Paga maksimale per sigurimet shoqerore ishte 141_134 leke dhe behet 149_954 leke. 
