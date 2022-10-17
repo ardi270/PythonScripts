@@ -1,3 +1,6 @@
+"""
+Funksioni merr is parameter pagen bruto dhe llogarit pagen neto.
+"""
 def paga_bruto_neto(pagaBruto:float):
     pagaMinimale = 32_000
     pagaMaxKonShoq = 141_134  # Paga Maksimale per kontributet shoqerore
