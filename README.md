@@ -21,3 +21,8 @@ Nga paga bruto zbriten:
  Nese paga bruto eshte me madhe se 200_000, tap = 13% e diferences se 200_000 me 30_000 plus 23% e diferences se pages bruto me 200_000 
  
  Funksioni paga_neto_bruto llogarit pagen bruto nga paga neto
+
+LLogaritjet e mesiperme vlejne deri ne shtator 2022. Pas shtator 2022 behen dy ndryshime:
+
+1-Paga minimale ishte 32’000 leke dhe behet 34’000 leke.
+2-Paga maksimale per sigurimet shoqerore ishte 141’134 leke dhe behet 149’954 leke. 
