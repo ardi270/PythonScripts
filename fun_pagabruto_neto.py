@@ -1,6 +1,6 @@
 def paga_bruto_neto(pagaBruto:float):
-    pagaMinimale = 32_000
-    pagaMaxKonShoq = 141_134  # Paga Maksimale per kontributet shoqerore
+    pagaMinimale = 34_000
+    pagaMaxKonShoq = 149_954   # Paga Maksimale per kontributet shoqerore
     sigShoqPerqind = 9.5 / 100  # Sigurimet Shoqerore te punemarresit
     sigShenPerqind = 1.7 / 100  # Sigurimet shendetesore te punedhenesit
     tapKufiri40_000 = 40_000  # Kufiri prej 40_000 lekesh per TAP
@@ -33,6 +33,6 @@ def paga_bruto_neto(pagaBruto:float):
         pagaNeto -= tap
         return round(pagaNeto,2)
 
-l = [97_073,100_000, 45_000, 52_000,210_000, 28_000,32_000]
+l = [97_073,100_000, 45_000, 52_000,210_000, 28_000,34_000,150000]
 for paga in l:
     print("Paga Bruto", paga, ", Paga neto", paga_bruto_neto(paga))
